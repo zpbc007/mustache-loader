@@ -1,0 +1,3 @@
+const InserString = "{{insertString}}"
+const InserArray = {{{insertArray}}}
+const InserObject = {{{insertObj}}}
